@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AdivinhaNumero</string>
+    <string name="lblHello">Adivinhe o número de 1 a 10!! Você tem três chances! :D</string>
+    <string name="lblRecebe">...</string>
+    <string name="lblConfirma">OK</string>
+    <string name="lblResultado"></string>
+    <string name="lblResultado2">ACERTOU!!!</string>
+    <string name="lblResultado3">ERROU!!! Tente novamente!</string>
+    <string name="lblResultado4">FIM DAS TENTATIVAS :(</string>
+</resources>
