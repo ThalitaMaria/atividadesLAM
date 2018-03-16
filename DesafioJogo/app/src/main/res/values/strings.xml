@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Desafio do Jogo</string>
+    <string name="lblHello">Adivinhe o número de 1 a 1000!!!</string>
+    <string name="botao">TENTAR</string>
+    <string name="placar">PLACAR:</string>
+    <string name="melhorPlacar">MELHOR PLACAR: </string>
+    <string name="ultimos">HISTÓRICO DAS ÚLTIMAS JOGADAS: </string>
+</resources>
