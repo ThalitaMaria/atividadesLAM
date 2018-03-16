@@ -43,6 +43,7 @@
         android:layout_marginTop="8dp"
         android:background="@android:color/holo_blue_dark"
         android:fontFamily="sans-serif"
+        android:onClick="confirma"
         android:text="@string/botao"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"

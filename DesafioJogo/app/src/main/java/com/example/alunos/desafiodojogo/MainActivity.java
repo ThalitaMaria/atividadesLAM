@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
             SharedPreferences arquivo = getPreferences(Context.MODE_PRIVATE);
             Intent i = new Intent(MainActivity.this, Resultado.class);
 
-            Bundle bundle = new Bundle();
+            Bundle bundle = new Bundle();fileList();
             bundle.putInt("ultimoPlacar", t);
             i.putExtras(bundle);
             startActivity(i);
