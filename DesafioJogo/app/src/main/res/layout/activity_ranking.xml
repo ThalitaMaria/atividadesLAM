@@ -50,10 +50,11 @@
         android:textAllCaps="true"
         android:textSize="18sp"
         android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/hist0"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/toolbar"
+        app:layout_constraintTop_toBottomOf="@+id/txtPlacar"
         app:layout_constraintVertical_bias="0.267" />
 
     <TextView
@@ -66,46 +67,59 @@
         android:textAllCaps="true"
         android:textSize="18sp"
         android:textStyle="bold"
-        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintBottom_toTopOf="@+id/textView2"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.067"
+        app:layout_constraintEnd_toStartOf="@+id/txtPlacar"
+        app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/toolbar"
-        app:layout_constraintVertical_bias="0.109" />
+        app:layout_constraintVertical_bias="0.579" />
 
     <TextView
-        android:id="@+id/t1"
+        android:id="@+id/hist0"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         tools:layout_editor_absoluteX="68dp"
         tools:layout_editor_absoluteY="231dp" />
 
     <TextView
-        android:id="@+id/t2"
+        android:id="@+id/hist1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         tools:layout_editor_absoluteX="61dp"
         tools:layout_editor_absoluteY="281dp" />
 
     <TextView
-        android:id="@+id/t3"
+        android:id="@+id/hist2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         tools:layout_editor_absoluteX="61dp"
         tools:layout_editor_absoluteY="319dp" />
 
     <TextView
-        android:id="@+id/t4"
+        android:id="@+id/hist3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         tools:layout_editor_absoluteX="61dp"
         tools:layout_editor_absoluteY="362dp" />
 
     <TextView
-        android:id="@+id/t5"
+        android:id="@+id/hist4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         tools:layout_editor_absoluteX="61dp"
         tools:layout_editor_absoluteY="404dp" />
+
+    <TextView
+        android:id="@+id/txtPlacar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        app:layout_constraintBottom_toTopOf="@+id/textView2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.455"
+        app:layout_constraintStart_toEndOf="@+id/textView4"
+        app:layout_constraintTop_toBottomOf="@+id/toolbar"
+        app:layout_constraintVertical_bias="0.715" />
 
 </android.support.constraint.ConstraintLayout>
