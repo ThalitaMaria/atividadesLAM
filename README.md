@@ -1,5 +1,5 @@
-#AtividadesLAM
+AtividadesLAM
 
-#Repositório criado para as atividades da disciplina de Aplicações Móveis.
+Repositório criado para as atividades da disciplina de Aplicações Móveis.
 
-#Thalita Maria.
+Thalita Maria.
