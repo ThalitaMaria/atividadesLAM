@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PassagemDeDados</string>
+    <string name="rotulo">Digite seu nome:</string>
+    <string name="enviar">ENVIAR</string>
+</resources>
