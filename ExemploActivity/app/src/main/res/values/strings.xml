@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">ExemploActivity</string>
-    <string name="lblButton">Muda o texto</string>
-    <string name="lblHello">Alô, mundo!</string>
-    <string name="lblHello2">Alô, Wendell!</string>
-</resources>

@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">Intent Implicíta</string>
-    <string name="um">Digite um endereço web:</string>
-    <string name="recebe">http://endereço.com</string>
-</resources>

@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Lista Dinâmica</string>
-    <string name="lbl_hello">Manipulando listas dinâmicas</string>
-    <string name="lbl_button">Mostrar Lista</string>
-    <string name="lbl_nome">Nome</string>
-    <string name="lbl_telefone">Telefone</string>
-
-</resources>
