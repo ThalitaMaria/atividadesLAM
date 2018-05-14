@@ -1,4 +1,4 @@
-package com.example.alunos.exemplorecyclerview.adapter;
+package com.example.alunos.exerciciorecyclerview.adapter;
 
 import android.content.Context;
 import android.support.annotation.NonNull;
@@ -7,8 +7,8 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.example.alunos.exemplorecyclerview.R;
-import com.example.alunos.exemplorecyclerview.model.Livro;
+import com.example.alunos.exerciciorecyclerview.R;
+import com.example.alunos.exerciciorecyclerview.model.Livro;
 
 import java.util.List;
 

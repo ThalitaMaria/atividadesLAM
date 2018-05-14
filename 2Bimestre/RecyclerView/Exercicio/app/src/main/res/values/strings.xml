@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercicio RecyclerView</string>
+    <string name="bt_menu">Adicionar Livro</string>
+    <string name="titulo">Título:</string>
+    <string name="autor">Autor:</string>
+    <string name="desc">Descrição:</string>
+</resources>
