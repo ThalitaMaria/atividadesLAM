@@ -55,8 +55,6 @@ public class MainActivity extends AppCompatActivity {
                             f = new AddItemsFragment();
                         }else if(itemId == R.id.action_view_items){
                             f = new ViewItensFragment();
-                        }else if(itemId == R.id.settings){
-                            f = new SettingsFragment();
                         }
                         if(f != null){
                             FragmentTransaction transaction =

@@ -7,17 +7,17 @@
             android:id="@+id/action_new_item"
             android:icon="@android:drawable/ic_menu_add"
             android:title="@string/action_new"
-            app:showAsAction="never" />
+            app:showAsAction="ifRoom" />
         <item
             android:id="@+id/action_view_items"
             android:icon="@android:drawable/ic_menu_view"
             android:title="@string/action_view_itens"
-            app:showAsAction="never" />
+            app:showAsAction="ifRoom" />
         <item
             android:id="@+id/settings"
             android:icon="@android:drawable/ic_menu_preferences"
             android:title="@string/action_settings"
-            app:showAsAction="never" />
+            app:showAsAction="ifRoom" />
 
     </group>
 
