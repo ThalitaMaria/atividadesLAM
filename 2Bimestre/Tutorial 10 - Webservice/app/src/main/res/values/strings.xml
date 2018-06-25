@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Fake User</string>
+    <string name="titulo">FakeUser</string>
+    <string name="tituloNome">Nome:</string>
+    <string name="tituloSobrenome">Sobrenome:</string>
+    <string name="tituloEmail">Email:</string>
+    <string name="tituloEndereco">Endereço:</string>
+    <string name="tituloCidade">Cidade:</string>
+    <string name="tituloEstado">Estado:</string>
+    <string name="tituloUsername">Username:</string>
+    <string name="tituloSenha">Senha:</string>
+    <string name="tituloNascimento">Nascimento:</string>
+    <string name="tituloTelefone">Telefone:</string>
+    <string name="image"></string>
+</resources>
